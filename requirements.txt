@@ -1,0 +1,6 @@
+aiogram==2.25.1
+
+asyncpg==0.28.0
+
+environs==8.0.0
+
